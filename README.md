@@ -45,7 +45,7 @@ Arabic Class/
 Just clone the repository:
 
 ```bash
-git clone https://github.com/ShadowRL76/Arabic-MSA-Resources-1.git
+https://github.com/ShadowRL76/Arabic-MSA-Resources.git
 ```
 
 Then browse the folders to explore the content.
@@ -60,7 +60,7 @@ Have your own MSA notes or resources to share? Open a pull request or drop an is
 
 ## 📝 License
 
-This project is shared for educational purposes. If any materials require removal due to copyright concerns, feel free to [open an issue](https://github.com/ShadowRL76/Arabic-MSA-Resources-1/issues).
+This project is shared for educational purposes. If any materials require removal due to copyright concerns, feel free to [open an issue](https://github.com/ShadowRL76/Arabic-MSA-Resources.git/issues).
 
 ---
 
