@@ -45,7 +45,7 @@ Arabic Class/
 Just clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Arabic-MSA-Resources-1.git
+git clone https://github.com/ShadowRL76/Arabic-MSA-Resources-1.git
 ```
 
 Then browse the folders to explore the content.
