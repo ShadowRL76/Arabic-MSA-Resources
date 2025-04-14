@@ -67,5 +67,3 @@ This project is shared for educational purposes. If any materials require remova
 ## 🌍 Let's Learn Arabic Together!
 
 > "To learn a language is to have one more window from which to look at the world." — Chinese Proverb
-
-```
