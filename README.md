@@ -1,5 +1,3 @@
-
-```markdown
 # 📚 Arabic MSA Resources
 
 Welcome to the **Arabic MSA (Modern Standard Arabic) Resources** repository — a curated collection of college-level Arabic learning materials designed to guide learners through the foundations of the Arabic language using authentic, classroom-tested resources.
